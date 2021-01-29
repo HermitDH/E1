@@ -1,6 +1,6 @@
 while true do
     wait(1)
-    _G.HeadSize = 25
+    _G.HeadSize = 15
     _G.Disabled = true
 
     if _G.Disabled then
